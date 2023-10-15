@@ -67,8 +67,8 @@ input{
     color: #131212;
 }
 ::-webkit-input-placeholder{
-    color: #ccc;
+    color: #0b35df;
 }
 ::-ms-input-placeholder{
-    color: #ccc;
+    color: #0c6ce9;
 }
